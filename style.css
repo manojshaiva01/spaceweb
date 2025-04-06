@@ -122,6 +122,14 @@ header #logo{
 .text{
   margin-top: 15px;
   color: #333;
+  font-size: 25px;
+  font-weight: 100;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-bottom: 20px;
+}
+.txt{
+  margin-top: 15px;
+  color: #333;
 }
 .main{
   display: grid;
