@@ -190,7 +190,7 @@ footer{
 @media (min-width:1000px) {
   .container{
     width: 100%;
-    height: 55vh;
+    height: 30vh;
     background-position: center;
     background-size: cover;
     background-repeat:no-repeat ;
@@ -203,7 +203,7 @@ footer{
     font-size: 25px;
     font-weight: 100;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-top: 250px;
+    padding-top: 50px;
     padding-bottom: 10px;
   }
   
