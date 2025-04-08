@@ -145,7 +145,7 @@ footer{
   text-align: center;
 }
 .resimage{
-  display: grid;
+  display: flex;
   align-items: center;
   justify-content: center;
   margin-top: 20px;
@@ -181,28 +181,11 @@ footer{
   }
   .resimage{
     float: none;
-    width: 300px;
-    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 30px; 
   }
-  .container{
-    width: 100%;
-    height: 60vh;
-    background-image: url(images/space.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat:no-repeat ;
-    background-color: rgb(50, 50, 50);
-    color: white;
-    text-align: center;
-    border-bottom: 13px solid rgb(31,31,31);
-    
-}
-#tagline{
-    font-size: 25px;
-    font-weight: 100;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-top: 200px;
-    padding-bottom: 10px;
-}
   
 }
