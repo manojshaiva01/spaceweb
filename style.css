@@ -95,9 +95,9 @@ header #logo{
 }
 .headl{
   font-size: 25px;
-    font-weight: 100;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-bottom: 20px;
+  font-weight: 100;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: bold;
 }
 .devlop{
   margin-bottom: 20px;
@@ -150,29 +150,8 @@ footer{
   margin-top: 20px;
   margin-bottom: 30px;
 }
-.station{
-  width: 100%;
-  height: 60vh;
-  background-image: url(images/iss.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat:no-repeat ;
-  background-color: rgb(50, 50, 50);
-  color: white;
-  text-align: center;
-  border-bottom: 13px solid rgb(31,31,31);
-}
-.solarsys{
-  width: 100%;
-  height: 60vh;
-  background-image: url(images/solar.jpeg);
-  background-position: center;
-  background-size: cover;
-  background-repeat:no-repeat ;
-  background-color: rgb(50, 50, 50);
-  color: white;
-  text-align: center;
-  border-bottom: 13px solid rgb(31,31,31);
+hr{
+  margin: 20px;
 }
 @media (max-width:600px) {
   .box{
